@@ -37,7 +37,7 @@ Stir in chocolate chips and nuts.Place 1 1/2 inch balls of dough 2 inches apart 
 
 Nutrition Information
 
-Probably bad for you, but who cares. MMMMMM COOKIES!!!! nom nom nom
+Probably bad for you!
 
 Inspiration Recipe: "http://www.opensourcefood.com/people/Amanori/recipes/mamas-recipe-the-best-chocolate-chip-cookies"
 ```
