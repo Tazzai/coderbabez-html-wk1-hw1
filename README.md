@@ -15,7 +15,7 @@ She would like....
 * The name of her recipe to appear big at the top of the page
 * The directions to appear in order in a numbered list.
 * The ingredients to appear in a bulleted list
-* A picture of her famous cookies on the top of the page (in the img folder)
+* A picture of her famous cookies on the top of the page (hint: you will need to link to a relative url in the img folder of this repository. Your url will look  like this "./img/cookies.jpg")
 * Nutrition facts in a paragraph below the recipe
 * A link to her inspiration recipe at the bottom of the page
 
